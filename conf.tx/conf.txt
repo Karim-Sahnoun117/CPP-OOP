@@ -1,0 +1,7 @@
+nom1=vanessa
+nom2=richard
+nom3=paolo
+state1=married
+state2=single
+state3=single
+
